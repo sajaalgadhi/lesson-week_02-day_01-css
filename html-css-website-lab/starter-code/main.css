@@ -1,0 +1,42 @@
+h1{
+
+    text-align: left;
+    font-size: 50px;
+}
+#one{
+    text-align: center;
+    font-size: 30px;
+}
+
+h2 , h3{
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+article{
+text-align: justify;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+.L{
+   
+    display: inline;
+}
+.center{
+   display: inline-block;
+    padding:0; 
+    clear: both;
+    right: 0;
+    width: 200px;
+     border: 3px solid black;
+   float:right;
+
+
+}
+
+
